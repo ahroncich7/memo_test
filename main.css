@@ -1,0 +1,42 @@
+.col {
+    padding-top: 12px;
+}
+
+.oculto {
+    display: none;
+}
+
+body {
+    margin-top: 12px;
+    background: #FFFBDF;
+}
+
+#div-contador {
+    padding-left: 0%;
+    padding-right: 0%;
+    background-color: #334443;
+    border-radius: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #C6FFC1;
+    font-size: 1.5rem;
+}
+
+#div-tablero {
+    background-color: #334443;
+    border-radius: 15px;
+}
+
+#ganador {
+    text-align: center;
+    background-color: #334443;
+    border-radius: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 8rem;
+    margin: 5rem;
+}
+
+#bienvenida {
+    color: #334443;
+    font-size: 300%;
+    text-align: center;
+}
